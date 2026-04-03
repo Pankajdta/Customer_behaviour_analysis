@@ -1,2 +1,3 @@
-# Customer_behaviour_analysis
-This repository showcases an end-to-end data analysis project focused on Customer Behavior Analysis. By integrating SQL for data extraction, Python for advanced analytical modeling, and Power BI for interactive storytelling, the project identifies key drivers behind customer retention and purchasing patterns.
+Customer Shopping Behavior AnalysisThis repository contains an end-to-end data analysis project that explores customer purchasing patterns and behavioral trends. By integrating Python for data cleaning, PostgreSQL for deep-dive transactional analysis, and Power BI for interactive visualization, the project provides actionable insights to drive strategic business decisions.
+
+This Customer Shopping Behavior Analysis project explores 3,900 transactions to optimize strategic decisions. Using Python for cleaning and feature engineering , PostgreSQL for revenue and segmentation analysis , and Power BI for interactive dashboards , it uncovers key insights into demographics, subscription impact, and product preferences to drive targeted marketing and loyalty
